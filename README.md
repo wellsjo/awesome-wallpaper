@@ -12,6 +12,6 @@ AwesomeWallpaper downloads the best pictures every day for your desktop wallpape
 5:  Create a cron job to run <b>~get_todays_wallpapers.py</b> at the interval you choose*
 </p>
 <p>
-<a href="http://benr75.com/pages/using_crontab_mac_os_x_unix_linux">Here</a> is a good tutorial for creating cron jobs on a *nix system with Crontab.<br/>
+<a href="http://benr75.com/pages/using_crontab_mac_os_x_unix_linux">*Here</a> is a good tutorial for creating cron jobs on a *nix system with Crontab.<br/>
 If that scares you, I recommend using Google's free software <a href="https://code.google.com/p/cronnix/">CronniX</a> to schedule cron jobs (only Mac OSX).
 </p>
