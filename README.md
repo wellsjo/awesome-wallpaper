@@ -14,7 +14,7 @@ AwesomeWallpaper downloads the best pictures every day for your desktop wallpape
 </p>
 <p>
 *All this does is make it so that Mac OS doesn't switch your wallpaper back to the default when you restart your computer.<br/><br/>
-**How to create CRON jobs:<br/><br/>
+**How to create CRON jobs:<br/>
 <a href="http://benr75.com/pages/using_crontab_mac_os_x_unix_linux">Here</a> is a good tutorial for creating cron jobs on a *nix system with Crontab.<br/>
 If that scares you, I recommend using Google's free software <a href="https://code.google.com/p/cronnix/">CronniX</a> to schedule cron jobs (only Mac OSX).
 </p>
