@@ -1,4 +1,4 @@
-<h1>AwesomeWallpaper</h1>
+<h1>Awesome-Wallpaper</h1>
 <p>
 AwesomeWallpaper downloads the best pictures every day for your desktop wallpaper to keep it interesting.  It is a script made to work with a cron job (scheduled execution) to download new photos every day.
 </p>
