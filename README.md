@@ -3,7 +3,7 @@
 Awesome-Wallpaper downloads the best pictures every day for your desktop wallpaper to keep it interesting.  It is a script made to work with a cron job (scheduled execution) to download new photos every day.
 </p>
 
-<h1>Setup is easy!</h1>
+<h1>Setup is pretty easy...I guess</h1>
 <p>
 1:  Ensure Python is installed.  It probably already is, but to check, go into terminal and type "python" and see if it responds.<br/>
 2:  (Mac OS only) Open terminal and enter<b>*</b>: rm ~/Library/Preferences/com.apple.Desktop.plist<br/>
