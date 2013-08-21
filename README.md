@@ -1,6 +1,6 @@
 <h1>Awesome-Wallpaper</h1>
 <p>
-AwesomeWallpaper downloads the best pictures every day for your desktop wallpaper to keep it interesting.  It is a script made to work with a cron job (scheduled execution) to download new photos every day.
+Awesome-Wallpaper downloads the best pictures every day for your desktop wallpaper to keep it interesting.  It is a script made to work with a cron job (scheduled execution) to download new photos every day.
 </p>
 
 <h1>Setting up AwesomeWallpaper is easy!</h1>
@@ -10,7 +10,7 @@ AwesomeWallpaper downloads the best pictures every day for your desktop wallpape
 3:  Make a directory for your wallpapers, it can be anywhere.<br/>
 4:  In your computer's operating system settings, make your wallpaper directory point to the directory you just made and make sure it allows multiple wallpapers as well as timed switching.<br/>
 5:  Download <b><a href="https://github.com/thepuma/Awesome-Wallpaper/blob/master/~get_todays_wallpapers.py">~get_todays_wallpapers.py</a></b> and put the file in the same wallpapers directory you just made.<br/>
-6:  Create a cron job to run <b>~get_todays_wallpapers.py</b> at the interval you choose<b>**</b>
+6:  Create a cron job to run ~get_todays_wallpapers.py at the interval you choose<b>**</b>
 </p>
 <p>
 <b>*</b>All this does is make it so that Mac OS doesn't switch your wallpaper back to the default when you restart your computer.<br/><br/>
