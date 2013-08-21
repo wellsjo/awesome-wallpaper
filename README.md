@@ -6,7 +6,7 @@ AwesomeWallpaper downloads the best pictures every day for your desktop wallpape
 <h1>Setting up AwesomeWallpaper is easy!</h1>
 <p>
 1:  Ensure Python is installed.  It probably already is, but to check, go into terminal and type "python" and see if it responds.<br/>
-2:  Open terminal and enter<b>*</b>: rm ~/Library/Preferences/com.apple.Desktop.plist
+2:  Open terminal and enter<b>*</b>: rm ~/Library/Preferences/com.apple.Desktop.plist<br/>
 3:  Make a directory for your wallpapers, it can be anywhere<br/>
 4:  In settings, point your wallpaper directory to that directory, make sure it allows multiple wallpapers as well as timed switching<br/>
 5:  Download <b>~get_todays_wallpapers.py</b> and put it in the same wallpapers directory<br/>
